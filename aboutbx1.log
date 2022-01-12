@@ -1,0 +1,31 @@
+Line 34: Class Threed.SSPanel of control SSPanel1 was not a loaded control class.
+Line 61: Class Threed.SSPanel of control SSPanel3 was not a loaded control class.
+Line 83: Class Threed.SSPanel of control SSPanel4 was not a loaded control class.
+Line 96: Class Threed.SSPanel of control SSPanel2 was not a loaded control class.
+Line 116: Class Threed.SSPanel of control SSPanel5 was not a loaded control class.
+Line 40: The property name _Version in SSPanel1 is invalid.
+Line 41: The property name _ExtentX in SSPanel1 is invalid.
+Line 42: The property name _ExtentY in SSPanel1 is invalid.
+Line 43: The property name _StockProps in SSPanel1 is invalid.
+Line 44: The property name Caption in SSPanel1 is invalid.
+Line 45: The property name BevelWidth in SSPanel1 is invalid.
+Line 67: The property name _Version in SSPanel3 is invalid.
+Line 68: The property name _ExtentX in SSPanel3 is invalid.
+Line 69: The property name _ExtentY in SSPanel3 is invalid.
+Line 70: The property name _StockProps in SSPanel3 is invalid.
+Line 71: The property name Caption in SSPanel3 is invalid.
+Line 89: The property name _Version in SSPanel4 is invalid.
+Line 90: The property name _ExtentX in SSPanel4 is invalid.
+Line 91: The property name _ExtentY in SSPanel4 is invalid.
+Line 92: The property name _StockProps in SSPanel4 is invalid.
+Line 93: The property name Caption in SSPanel4 is invalid.
+Line 102: The property name _Version in SSPanel2 is invalid.
+Line 103: The property name _ExtentX in SSPanel2 is invalid.
+Line 104: The property name _ExtentY in SSPanel2 is invalid.
+Line 105: The property name _StockProps in SSPanel2 is invalid.
+Line 106: The property name Caption in SSPanel2 is invalid.
+Line 122: The property name _Version in SSPanel5 is invalid.
+Line 123: The property name _ExtentX in SSPanel5 is invalid.
+Line 124: The property name _ExtentY in SSPanel5 is invalid.
+Line 125: The property name _StockProps in SSPanel5 is invalid.
+Line 126: The property name Caption in SSPanel5 is invalid.
